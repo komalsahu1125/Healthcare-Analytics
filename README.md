@@ -1,5 +1,6 @@
 # 📊 Healthcare Analytics Project
-[![image](https://github.com/user-attachments/assets/9ac8d5c8-3ec0-4681-a000-6fe8be68aa4f)](https://tse4.mm.bing.net/th?id=OIP.sRETmDvKzmvRbkv52ic24AHaEi&pid=Api&P=0&h=180)
+![image](https://github.com/user-attachments/assets/3feaaf19-d74d-4fbb-8cc3-f688143a210e)
+
 
 ## 📁 Project Overview
 
