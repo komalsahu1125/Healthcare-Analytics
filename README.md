@@ -1,7 +1,5 @@
 # 📊 Healthcare Analytics Project
-![AnomaData1](https://github.com/user-attachments/assets/b5c2b26f-f267-41ae-a924-8f4d11f208f2)
 ![image](https://github.com/user-attachments/assets/9ac8d5c8-3ec0-4681-a000-6fe8be68aa4f)
-https://www.eos-intelligence.com/wp-content/uploads/2018/03/Big-Data-Healthcare.jpg
 
 ## 📁 Project Overview
 
