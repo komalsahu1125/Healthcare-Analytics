@@ -8,7 +8,7 @@ This project is part of the Capstone requirement for the Data Analytics course. 
 
 ## 📂 Dataset Used
 
-- **File Name**: `Healthcare.xls`
+- **File Name**: `Healthcare.csv`
 
 ## 🧰 Tools & Technologies
 
